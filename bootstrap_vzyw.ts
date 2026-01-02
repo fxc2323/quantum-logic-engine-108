@@ -1,0 +1,1 @@
+const service_vzyw = <T>(args: T): T => { return args; };
